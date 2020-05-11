@@ -1,0 +1,2 @@
+# Filededuplicator
+Find duplicate files
